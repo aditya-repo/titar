@@ -1,0 +1,2 @@
+__ci_last_regenerate|i:1663007932;id|s:4:"1000";name|s:7:"kaushal";dob|s:10:"31/12/2000";gender|s:4:"Male";phone|s:10:"7050020659";email|s:16:"aditya@gmail.com";address|N;pincode|N;city|N;state|N;ctype|N;refferal|s:4:"1001";error|s:43:"<p>You did not select a file to upload.</p>";__ci_vars|a:2:{s:5:"error";s:3:"new";s:6:"errors";s:3:"new";}errors|s:35:"<p>The Type field is required.</p>
+";
